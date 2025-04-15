@@ -1,0 +1,9 @@
+[
+    {
+        "date": "04-15",
+        "title": "Test Entry: April 15 Works!",
+        "summary": "You're seeing this because your JSON loaded and matched today's date.",
+        "quote": "We out here.",
+        "link": ""
+    }
+]
